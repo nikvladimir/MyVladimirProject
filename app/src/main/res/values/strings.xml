@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MyVladimirProject</string>
+    <string name="greeting">Hello World!</string>
+    <string name="land_greeting">Hello Land world</string>
+    <string name="greetings_second_activity">greetings_second_activity</string>
 </resources>
