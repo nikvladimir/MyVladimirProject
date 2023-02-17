@@ -3,4 +3,11 @@
     <string name="greeting">Hello World!</string>
     <string name="land_greeting">Hello Land world</string>
     <string name="greetings_second_activity">greetings_second_activity</string>
+    <string name="genre">Action, Adventure, Fantasy</string>
+    <string name="back">Back</string>
+    <string name="age">13+</string>
+    <string name="picture_name">Avengers: \nEnd Game</string>
+    <string name="reviews">125 REVIEWS</string>
+    <string name="storyline_heading">Storyline</string>
+    <string name="picture_description">After the devastating events of Avengers: Infinity War, the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos\' actions and restore balance to the universe.</string>
 </resources>
